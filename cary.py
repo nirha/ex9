@@ -43,7 +43,7 @@ class Car:
                 lst.append(
                     tuple([self.location[0]+1, self.location[1] + index]))
             return lst
-
+        THIS IS GARBAGE
     def possible_moves(self):
         """
         :return: A dictionary of strings describing possible movements permitted by this car.
