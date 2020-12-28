@@ -24,6 +24,8 @@ class Car:
         self.location = location
         self.orientation = orientation
 
+        
+        this is some real shit
     def car_coordinates(self):
         """
         :return: A list of coordinates the car is in
